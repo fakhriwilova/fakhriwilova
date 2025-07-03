@@ -3,7 +3,7 @@ Hi! I’m Pawil👋🏼<br>Currently a Computer Science student who's just tryin
 
 
 ## 🌐 Socials:
-<p align="center">
+<p>
   <a href="https://discord.gg/GkzMaZeZPD">
     <img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
