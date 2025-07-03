@@ -95,7 +95,6 @@ I believe great software should be as clear and reliable as the people behind it
 
 ---
 
-//Visitor Badge
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fakhriwilova&label=Visitors&color=00bcd4&style=for-the-badge" alt="visitor badge"/>
 </p>
