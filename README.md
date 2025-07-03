@@ -66,7 +66,7 @@ I believe great software should be as clear and reliable as the people behind it
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fakhriwilova&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fakhriwilova&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fakhriwilova&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fakhriwilova&theme=github_dark&utcOffset=7" />
 </p>
 
