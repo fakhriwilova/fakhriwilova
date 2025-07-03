@@ -10,9 +10,10 @@
 
 ## 💫 About Me
 
-Computer Science student with a passion for clean code, cleaner UIs, and building dashboards that make dosen senyum 😄.  
-I love developing Laravel-based web apps, styling interfaces with TailwindCSS, and occasionally debugging SQL errors at 2AM (part of the fun, right?).  
-When I’m not coding, you’ll probably find me gaming, chilling in Discord, or nge-rank random FPS buat ngilangin stress. 🎮  
+Computer Science student with a strong passion for clean code, intuitive user interfaces, and real-world problem solving through technology.  
+I specialize in building modern web applications using **Laravel**, **MySQL**, and **TailwindCSS**, and I enjoy transforming ideas into clean, functional products.
+Outside of tech, I enjoy playing competitive FPS games and spending time in Discord communities — it helps me unwind and sharpen my instincts. 🎮
+I believe great software should be as clear and reliable as the people behind it — and I’m always looking to grow, build, and collaborate on meaningful projects.
 
 ---
 
