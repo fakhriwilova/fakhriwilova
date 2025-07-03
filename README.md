@@ -77,6 +77,11 @@ I build web apps with **Laravel**, mess with **Blade**, and occasionally fight w
 
 ---
 
+## 📈 GitHub Activity Graph
+[![Pawil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fakhriwilova&bg_color=ffffff00&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fakhriwilova&label=Visitors&color=00bcd4&style=for-the-badge" alt="visitor badge"/>
 </p>
