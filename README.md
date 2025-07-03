@@ -11,9 +11,8 @@
 
 ## 💫 About Me
 
-Hi! I’m **Pawil** 👨‍💻  
-Currently a Computer Science student who's just trying to make clean code and cleaner UIs (biar dosen senyum).  
-I build web apps with **Laravel**, mess with **Blade**, and occasionally fight with **MySQL** at 2 AM.
+Hi! I’m **Pawil**, a Computer Science student with a passion for clean code, cleaner UIs, and making dashboards that make dosen senyum 😄.  
+I love building Laravel-based web apps, styling interfaces with TailwindCSS, and occasionally debugging SQL errors at 2AM (part of the fun, right?).
 
 ---
 
