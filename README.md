@@ -10,8 +10,7 @@
 
 Hi! I’m **Pawil** 👨‍💻  
 Currently a Computer Science student who's just trying to make clean code and cleaner UIs (biar dosen senyum).  
-I build web apps with **Laravel**, mess with **Blade**, and occasionally fight with **MySQL** at 2 AM.  
-Interning at **PT BPR Waway Lampung**, developing a real-world inventory system.
+I build web apps with **Laravel**, mess with **Blade**, and occasionally fight with **MySQL** at 2 AM.
 
 ---
 
