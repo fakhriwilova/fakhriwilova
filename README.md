@@ -50,6 +50,7 @@ I believe great software should be as clear and reliable as the people behind it
 ## 💻 Tech Stack
 
 <p align="center">
+  <!-- Core -->
   <img src="https://img.shields.io/badge/PHP-00bcd4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-00bcd4?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00bcd4?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -58,6 +59,13 @@ I believe great software should be as clear and reliable as the people behind it
   <img src="https://img.shields.io/badge/JavaScript-00bcd4?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-00bcd4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-00bcd4?style=for-the-badge&logo=npm&logoColor=white" />
+  <br>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-00bcd4?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-00bcd4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-00bcd4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-00bcd4?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-00bcd4?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -65,9 +73,11 @@ I believe great software should be as clear and reliable as the people behind it
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fakhriwilova&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fakhriwilova&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fakhriwilova&theme=github_dark&utcOffset=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhriwilova&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fakhriwilova&theme=transparent&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhriwilova&theme=transparent&hide_border=true&layout=compact&count_private=true" width="60%" />
 </p>
 
 ---
@@ -82,18 +92,6 @@ I believe great software should be as clear and reliable as the people behind it
 
 ## 📈 GitHub Activity Graph
 [![Pawil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fakhriwilova&bg_color=ffffff00&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
----
-
-## 🎧 Now Playing
-<p align="center">
-  Music helps me stay focused while coding.<br><br>
-  <a href="[https://open.spotify.com/playlist/1IQFKBuztVwzfpiBcp017m?si=25a1876a29e14148](https://open.spotify.com/playlist/1IQFKBuztVwzfpiBcp017m?si=19bd57f568294af4)">
-    <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Now Playing on Spotify" />
-  </a>
-</p>
 
 ---
 
