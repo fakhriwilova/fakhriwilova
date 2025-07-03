@@ -65,12 +65,9 @@ I believe great software should be as clear and reliable as the people behind it
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhriwilova&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=fakhriwilova&theme=transparent&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhriwilova&layout=compact&theme=transparent&hide_border=true" width="60%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fakhriwilova&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fakhriwilova&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fakhriwilova&theme=github_dark&utcOffset=7" />
 </p>
 
 ---
