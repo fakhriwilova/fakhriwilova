@@ -88,6 +88,19 @@ I believe great software should be as clear and reliable as the people behind it
 
 ---
 
+---
+
+## 🎧 Now Playing
+<p align="center">
+  Music helps me stay focused while coding.<br><br>
+  <a href="https://open.spotify.com/playlist/1IQFKBuztVwzfpiBcp017m?si=25a1876a29e14148">
+    <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Now Playing on Spotify" />
+  </a>
+</p>
+
+---
+
+//Visitor Badge
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fakhriwilova&label=Visitors&color=00bcd4&style=for-the-badge" alt="visitor badge"/>
 </p>
