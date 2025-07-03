@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=440&lines=Web+Developer+%7C+Laravel+Lover;Passionate+about+Clean+Code+%26+UI;" alt="Typing SVG">
-</
 </p
 
 ---
