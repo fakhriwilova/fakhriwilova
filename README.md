@@ -93,7 +93,7 @@ I believe great software should be as clear and reliable as the people behind it
 ## 🎧 Now Playing
 <p align="center">
   Music helps me stay focused while coding.<br><br>
-  <a href="https://open.spotify.com/playlist/1IQFKBuztVwzfpiBcp017m?si=25a1876a29e14148">
+  <a href="[https://open.spotify.com/playlist/1IQFKBuztVwzfpiBcp017m?si=25a1876a29e14148](https://open.spotify.com/playlist/1IQFKBuztVwzfpiBcp017m?si=19bd57f568294af4)">
     <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Now Playing on Spotify" />
   </a>
 </p>
