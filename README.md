@@ -10,8 +10,9 @@
 
 ## 💫 About Me
 
-Computer Science student with a passion for clean code, cleaner UIs, and making dashboards that make dosen senyum 😄.  
-I love building Laravel-based web apps, styling interfaces with TailwindCSS, and occasionally debugging SQL errors at 2AM (part of the fun, right?).
+Computer Science student with a passion for clean code, cleaner UIs, and building dashboards that make dosen senyum 😄.  
+I love developing Laravel-based web apps, styling interfaces with TailwindCSS, and occasionally debugging SQL errors at 2AM (part of the fun, right?).  
+When I’m not coding, you’ll probably find me gaming, chilling in Discord, or nge-rank random FPS buat ngilangin stress. 🎮  
 
 ---
 
