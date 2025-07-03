@@ -23,3 +23,7 @@ Hi! I’m Pawil👋🏼<br>Currently a Computer Science student who's just tryin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fakhriwilova&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fakhriwilova.fakhriwilova&style=for-the-badge&color=00bcd4" alt="visitor badge"/>
+</p>
