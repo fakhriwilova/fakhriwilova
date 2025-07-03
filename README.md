@@ -1,47 +1,83 @@
-# 💫 About Me:
-Hi! I’m Pawil👋🏼<br>Currently a Computer Science student who's just trying to make clean code and cleaner UIs (biar dosen senyum).<br>I build web apps with Laravel, mess with Blade, and occasionally fight with MySQL at 2 AM.
+<h1 align="center">Hi there 👋🏼, I'm Pawil!</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=440&lines=Web+Developer+%7C+Laravel+Lover;Passionate+about+Clean+Code+%26+UI;Currently+interning+at+BPR+Waway+Lampung" alt="Typing SVG">
+</p>
 
-## 🌐 Socials:
-<p>
+---
+
+## 💫 About Me
+
+Hi! I’m **Pawil** 👨‍💻  
+Currently a Computer Science student who's just trying to make clean code and cleaner UIs (biar dosen senyum).  
+I build web apps with **Laravel**, mess with **Blade**, and occasionally fight with **MySQL** at 2 AM.  
+Interning at **PT BPR Waway Lampung**, developing a real-world inventory system.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
   <a href="https://discord.gg/GkzMaZeZPD">
-    <img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-00bcd4?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://instagram.com/fakhri.wilova/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-00bcd4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://tiktok.com/@wiloboiz">
-    <img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-00bcd4?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/wiloboiz">
-    <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-00bcd4?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
   <a href="https://x.com/pawilaja">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-00bcd4?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@wiloboiz">
-    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-00bcd4?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:wilovafakhri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00bcd4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-00bcd4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-00bcd4?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00bcd4?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-00bcd4?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-00bcd4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-00bcd4?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-00bcd4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-00bcd4?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fakhriwilova&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=fakhriwilova&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhriwilova&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhriwilova&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fakhriwilova&theme=transparent&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhriwilova&theme=transparent&hide_border=true&layout=compact&count_private=true" width="60%" />
+</p>
 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fakhriwilova&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+## 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=fakhriwilova&limit=5&theme=transparent&combine_all_yearly_contributions=true" width="60%" />
+</p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fakhriwilova&label=Visitors&color=00bcd4&style=for-the-badge" alt="visitor badge"/>
 </p>
