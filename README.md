@@ -13,13 +13,6 @@ Hi! I’m Pawil👋🏼<br>Currently a Computer Science student who's just tryin
 ![](https://nirzak-streak-stats.vercel.app/?user=fakhriwilova&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhriwilova&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fakhriwilova&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
